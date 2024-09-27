@@ -148,7 +148,24 @@
                 "720p" : "https://pixeldra.in/api/file/oH4HxCNK?download",
             "1080p" : "https://pixeldra.in/api/file/6ReENW3K?download"}
                 
-            }
+            },
+            {
+                "moviename":"Aavesham (2024) DSNP WEB-DL",
+                "moviethumb" : "https://i.pinimg.com/736x/3f/ff/d7/3fffd702d48852ede79ed71d04f36a2b.jpg",
+                "Screenshots" : [
+                   "https://imgbb.top/ib/BBghIEnSHLxZqku_1719522430.png",
+                   "https://imgbb.top/ib/jzct3zZeK10Hnr4_1719522430.png",
+                   "https://imgbb.top/ib/0qvhIPvd0ClOUrA_1719522430.png",
+                   "https://imgbb.top/ib/pYrPbVYo0sQVOk1_1719522430.png",
+                   "https://imgbb.top/ib/Mdj0HYjk8DtZ3F5_1719522430.png"
+                    
+                    ],
+
+                "Downloadlinks" : {"480p" : "https://pixeldra.in/api/file/FeK7ucdD?download",
+                "720p" : "https://pixeldra.in/api/file/q7gmaB7y?download",
+            "1080p" : "https://pixeldra.in/api/file/WC353Rzp?download"}
+                
+            },
 
 
 
